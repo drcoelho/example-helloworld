@@ -1,0 +1,22 @@
+Wrote new keypair to /home/myself/.config/solana/id.json
+============================================================================
+pubkey: FJstoZsvhMsg1QYwgBJ3GJ6CT3GAx3oqGVgLu1eiU4uh
+============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+among garage morning topic thunder cash gasp diet tomorrow guard human forum
+============================================================================
+
+cat /home/myself/.config/solana/id.json
+[83,45,218,226,148,224,233,15,252,242,38,88,6,108,240,16,56,66,175,83,75,180,79,46,52,236,101,206,188,15,27,176,212,152,9,41,217,109,169,158,40,90,229,186,27,39,228,249,203,139,162,91,159,164,155,101,173,32,182,225,242,62,64,68]
+
+Program Id: 2BWJosSaaV2ECNnR7kkd724TSvX7LDuZvebnRgoEVV98
+
+
+
+Test wallet seed:
+refuse crash beef same grief dragon wealth vessel trumpet scorpion toilet horse scare turtle allow raise sort verify blame series giggle bright prosper biology
+
+PK - Testnet wallet:
+[209,251,187,103,79,225,105,115,255,203,222,129,200,172,42,171,0,83,166,41,248,136,200,194,41,60,58,26,36,171,197,255,84,129,115,155,204,64,168,27,9,45,186,184,100,94,148,58,107,148,112,41,58,103,248,9,3,179,103,179,222,170,238,158]
+
+Deposit addr: 6gsjb3tB4DXkJKaFc1uhBFxKtkzwSywSnRtkNh7GphVX
